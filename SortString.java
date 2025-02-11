@@ -24,3 +24,22 @@ public class SortString
 		System.out.println(res);
 	}
 }
+
+
+// import java.util.*;
+
+// public class SortStringUsingMethod
+// {
+// 	public static void main(String[] args) {
+// 	    Scanner sc = new Scanner(System.in);
+// 		String str = sc.nextLine();
+// 		char[] ch = str.toCharArray();
+// 		Arrays.sort(ch);
+// 		System.out.println(Arrays.toString(ch));
+// 		String res = "";
+// 		for(int i=0; i<ch.length; i++) {
+// 		    res += ch[i];
+// 		}
+// 		System.out.println(res);
+// 	}
+// }
