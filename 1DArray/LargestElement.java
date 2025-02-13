@@ -1,4 +1,4 @@
-package gfgJavaPractice;
+// Java Program to Find Largest Element in an Array
 
 import java.util.Arrays;
 import java.util.Scanner;
